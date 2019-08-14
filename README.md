@@ -1,6 +1,7 @@
 # Gekko [![npm](https://img.shields.io/npm/dm/gekko.svg)]() [![Build Status](https://travis-ci.org/askmike/gekko.png)](https://travis-ci.org/askmike/gekko) [![Build status](https://ci.appveyor.com/api/projects/status/github/askmike/gekko?branch=stable&svg=true)](https://ci.appveyor.com/project/askmike/gekko)
 
 ![Gordon Gekko](http://mikevanrossum.nl/static/gekko.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcraigpmc%2Fgekko.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcraigpmc%2Fgekko?ref=badge_shield)
 
 *The most valuable commodity I know of is information.*
 
@@ -21,3 +22,6 @@ See [the installing Gekko doc](https://gekko.wizb.it/docs/installation/installin
 ## Final
 
 If Gekko helped you in any way, you can always leave me a tip at (BTC) 13r1jyivitShUiv9FJvjLH7Nh1ZZptumwW
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcraigpmc%2Fgekko.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcraigpmc%2Fgekko?ref=badge_large)
